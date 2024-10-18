@@ -46,5 +46,8 @@
   ![Dead](Uploads/Dead.png)
   
 
-## Credits
+## Người thực hiện
 - **[Vo Trung Kien](https://github.com/KaeseyVNK)** - Fullstack
+
+## Nguồn học tập 
+- https://www.youtube.com/watch?v=CG81OmTgv-4
